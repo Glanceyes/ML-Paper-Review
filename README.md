@@ -36,9 +36,9 @@ Thank you for visiting my repository and I hope you find it useful.
 
 #### Radiance Field
 
-| Name                                     | Paper Review                                                 | Code | Code Reference |
-| ---------------------------------------- | ------------------------------------------------------------ | ---- | -------------- |
-| [NeRF](https://arxiv.org/abs/2003.08934) | [Link](https://glanceyes.tistory.com/entry/NeRF-2D-이미지를-3D-이미지로-Reconstruction하여-Novel-View-Synthesis이-가능한-Neural-Radiance-Fields) |      |                |
+| Name                                     | Paper Review                                                 | Code                                                         | Code Reference |
+| ---------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------- |
+| [NeRF](https://arxiv.org/abs/2003.08934) | [Link](https://glanceyes.tistory.com/entry/NeRF-2D-이미지를-3D-이미지로-Reconstruction하여-Novel-View-Synthesis이-가능한-Neural-Radiance-Fields) | [File](https://github.com/Glanceyes/ML-Paper-Review/blob/main/ComputerVision/NeRF.ipynb) |                |
 
 <br/>
 
