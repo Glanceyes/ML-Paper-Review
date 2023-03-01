@@ -26,6 +26,10 @@ Thank you for visiting my repository and I hope you find it useful.
 
 <br/>
 
+>  The code below is typically based on `.ipynb` files.
+
+<br/>
+
 ### Computer Vision
 
 <br/>
