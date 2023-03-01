@@ -30,36 +30,40 @@ Thank you for visiting my repository and I hope you find it useful.
 
 <br/>
 
+
+
 ### Computer Vision
 
 <br/>
 
 #### Radiance Field
 
-| Name                                     | Paper Review                                                 | Code                                                         | Code Reference |
-| ---------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------- |
-| [NeRF](https://arxiv.org/abs/2003.08934) | [Link](https://glanceyes.tistory.com/entry/NeRF-2D-이미지를-3D-이미지로-Reconstruction하여-Novel-View-Synthesis이-가능한-Neural-Radiance-Fields) | [File](https://github.com/Glanceyes/ML-Paper-Review/blob/main/ComputerVision/NeRF.ipynb) |                |
+| Name     | Paper                                                        | Paper Review                                                 | Code                                                         | Code Reference |
+| -------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------- |
+| **NeRF** | [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934) | [Link](https://glanceyes.tistory.com/entry/NeRF-2D-이미지를-3D-이미지로-Reconstruction하여-Novel-View-Synthesis이-가능한-Neural-Radiance-Fields) | [File](https://github.com/Glanceyes/ML-Paper-Review/blob/main/ComputerVision/NeRF.ipynb) |                |
 
 <br/>
 
 #### Generative Model
 
-| Name                                         | Paper Review                                                 | Code | Code Reference |
-| -------------------------------------------- | ------------------------------------------------------------ | ---- | -------------- |
-| [StyleGAN](https://arxiv.org/abs/1812.04948) | [Link](https://glanceyes.tistory.com/entry/StyleGAN-Style-transfer와-mapping-network를-사용하여-disentanglement를-향상시킨-generative-Model) |      |                |
-| [HoloGAN](https://arxiv.org/abs/1904.01326)  | [Link](https://glanceyes.tistory.com/entry/HoloGAN-Natural-이미지로부터-3D-representation에-관해-unsupervised-learning-할-수-있는-모델) |      |                |
+| Name         | Paper                                                        | Paper Review                                                 | Code | Code Reference |
+| ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | -------------- |
+| **StyleGAN** | [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948) | [Link](https://glanceyes.tistory.com/entry/StyleGAN-Style-transfer와-mapping-network를-사용하여-disentanglement를-향상시킨-generative-Model) |      |                |
+| **HoloGAN**  | [HoloGAN: Unsupervised learning of 3D representations from natural images](https://arxiv.org/abs/1904.01326) | [Link](https://glanceyes.tistory.com/entry/HoloGAN-Natural-이미지로부터-3D-representation에-관해-unsupervised-learning-할-수-있는-모델) |      |                |
 
 <br/>
 
 #### Renderer
 
-| Name                                          | Paper Review                                                 | Code | Code Reference |
-| --------------------------------------------- | ------------------------------------------------------------ | ---- | -------------- |
-| [RenderNet](https://arxiv.org/abs/1806.06575) | [Link](https://glanceyes.tistory.com/entry/RenderNet-3D-shape를-가지고-differentiable-rendering을-수행할-수-있는-Convolutional-network) |      |                |
+| Name          | Paper                                                        | Paper Review                                                 | Code | Code Reference |
+| ------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | -------------- |
+| **RenderNet** | [RenderNet: A deep convolutional network for differentiable rendering from 3D shapes](https://arxiv.org/abs/1806.06575) | [Link](https://glanceyes.tistory.com/entry/RenderNet-3D-shape를-가지고-differentiable-rendering을-수행할-수-있는-Convolutional-network) |      |                |
 
 <br/>
 
 <br/>
+
+------
 
 ### Recommendation System
 
@@ -67,9 +71,9 @@ Thank you for visiting my repository and I hope you find it useful.
 
 #### Autoencoder
 
-| Name                                     | Paper Review                                                 | Code | Code Reference |
-| ---------------------------------------- | ------------------------------------------------------------ | ---- | -------------- |
-| [EASE](https://arxiv.org/abs/1905.03375) | [Link](https://glanceyes.tistory.com/entry/Embarrassingly-Shallow-Autoencoders-for-Sparse-Data-모델이-희소-데이터에-강한-이유) |      |                |
+| Name     | Paper                                                        | Paper Review                                                 | Code                                                         | Code Reference |
+| -------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------- |
+| **EASE** | [Embarrassingly Shallow Autoencoders for Sparse Data](https://arxiv.org/abs/1905.03375) | [Link](https://glanceyes.tistory.com/entry/Embarrassingly-Shallow-Autoencoders-for-Sparse-Data-모델이-희소-데이터에-강한-이유) | [File](https://github.com/Glanceyes/ML-Paper-Review/blob/main/RecommendationSystem/EASE.ipynb) |                |
 
 <br/>
 
