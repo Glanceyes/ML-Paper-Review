@@ -20,7 +20,7 @@ My primary focus is on papers related to computer vision and recommendation syst
 
 <br/>
 
->  *The code below is a simplified version and typically based on `.ipynb` files.*
+The code below is a simplified version and typically based on `.ipynb` files.
 
 <br/>
 
@@ -70,8 +70,8 @@ My primary focus is on papers related to computer vision and recommendation syst
 | ------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------------- |
 | **EASE**      | [Embarrassingly Shallow Autoencoders for Sparse Data](https://arxiv.org/abs/1905.03375) | [Link](https://glanceyes.tistory.com/entry/Embarrassingly-Shallow-Autoencoders-for-Sparse-Data-모델이-희소-데이터에-강한-이유) | [File](https://github.com/Glanceyes/ML-Paper-Review/blob/main/RecommendationSystem/Autoencoder/EASE.ipynb) | [Link](https://github.com/Darel13712/ease_rec) |
 | **RecVAE**    | [RecVAE: a New Variational Autoencoder for Top-N Recommendations with Implicit Feedback](https://arxiv.org/abs/1912.11160) |                                                              |                                                              |                                                |
-| **Multi-VAE** | [Variational Autoencoders for Collaborative Filtering](https://dl.acm.org/doi/10.1145/3178876.3186150) |                                                              |                                                              |                                                |
-| **Multi-DAE** | [Variational Autoencoders for Collaborative Filtering](https://dl.acm.org/doi/10.1145/3178876.3186150) |                                                              |                                                              |                                                |
+| **Multi-DAE** | [Variational Autoencoders for Collaborative Filtering](https://dl.acm.org/doi/10.1145/3178876.3186150) |                                                              | [File](https://github.com/Glanceyes/ML-Paper-Review/blob/main/RecommendationSystem/Autoencoder/MultiDAE_MultiVAE.ipynb) |                                                |
+| **Multi-VAE** | [Variational Autoencoders for Collaborative Filtering](https://dl.acm.org/doi/10.1145/3178876.3186150) |                                                              | [File](https://github.com/Glanceyes/ML-Paper-Review/blob/main/RecommendationSystem/Autoencoder/MultiDAE_MultiVAE.ipynb) |                                                |
 
 <br/>
 
