@@ -26,6 +26,16 @@ The code below is a simplified version and typically based on `.ipynb` files.
 
 ------
 
+### Basic Concept
+
+
+
+It will be uploaded as soon as codes are organized.
+
+
+
+------
+
 ### Computer Vision
 
 <br/>
@@ -95,4 +105,4 @@ The code and the review in this repository is based on the original implementati
 
 <br/>
 
-This project is licensed under the MIT License - see the [LICENSE](https://chat.openai.com/chat/LICENSE) file for details. Some kinds of codes for paper's implementation are protected under the licenses specified by the authors. In such cases, the source of the code is left together.
+This project is licensed under the MIT License - see the [LICENSE](https://en.wikipedia.org/wiki/MIT_License) file for details. Some kinds of codes for paper's implementation are protected under the licenses specified by the authors. In such cases, the source of the code is left together.
