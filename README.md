@@ -55,9 +55,9 @@ It will be uploaded as soon as codes are organized.
 
 #### Implicit Function
 
-| Name       | Paper                                                        | Paper Review | Code                                                         | Code Reference |
-| ---------- | ------------------------------------------------------------ | ------------ | ------------------------------------------------------------ | -------------- |
-| **PIFuHD** | [Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization](https://arxiv.org/abs/1905.05172) |              | [File](https://github.com/Glanceyes/ML-Paper-Review/tree/main/ComputerVision/ImplicitFunction/PIFuHD) |                |
+| Name       | Paper                                                        | Paper Review | Code                                                         | Code Reference                                     |
+| ---------- | ------------------------------------------------------------ | ------------ | ------------------------------------------------------------ | -------------------------------------------------- |
+| **PIFuHD** | [Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization](https://arxiv.org/abs/1905.05172) |              | [File](https://github.com/Glanceyes/ML-Paper-Review/tree/main/ComputerVision/ImplicitFunction/PIFuHD) | [Link](https://github.com/facebookresearch/pifuhd) |
 
 <br/>
 
