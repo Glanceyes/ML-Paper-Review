@@ -57,7 +57,7 @@ It will be uploaded as soon as codes are organized.
 
 | Name       | Paper                                                        | Paper Review | Code                                                         | Code Reference |
 | ---------- | ------------------------------------------------------------ | ------------ | ------------------------------------------------------------ | -------------- |
-| **PIFuHD** | [Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization](https://arxiv.org/abs/1905.05172) |              | [File](https://github.com/Glanceyes/ML-Paper-Review/blob/main/ComputerVision/ImplicitFunction/PIFuHD/PIFuHD.ipynb) |                |
+| **PIFuHD** | [Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization](https://arxiv.org/abs/1905.05172) |              | [File](https://github.com/Glanceyes/ML-Paper-Review/tree/main/ComputerVision/ImplicitFunction/PIFuHD) |                |
 
 <br/>
 
