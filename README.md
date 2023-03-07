@@ -20,6 +20,10 @@ My primary focus is on papers related to computer vision and recommendation syst
 
 <br/>
 
+> *I regret you to inform that this GitHub repository is primarily operated for my own AI study, so the some comments in code and paper review posts on my tech blog are **written in Korean**.*
+
+<br/>
+
 The code below is a simplified version and typically based on `.ipynb` files.
 
 <br/>
@@ -40,21 +44,29 @@ It will be uploaded as soon as codes are organized.
 
 <br/>
 
-#### Radiance Field
-
-| Name           | Paper                                                        | Paper Review                                                 | Code                                                         | Code Reference                                     |
-| -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------------------------------- |
-| **NeRF**       | [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934) | [Link](https://glanceyes.tistory.com/entry/NeRF-2D-이미지를-3D-이미지로-Reconstruction하여-Novel-View-Synthesis이-가능한-Neural-Radiance-Fields) | [File](https://github.com/Glanceyes/ML-Paper-Review/tree/main/ComputerVision/RadianceField/NeRF) | [Link](https://github.com/yenchenlin/nerf-pytorch) |
-| **InstantNGP** | [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](https://arxiv.org/abs/2201.05989) |                                                              | [File](https://github.com/Glanceyes/ML-Paper-Review/tree/main/ComputerVision/RadianceField/InstantNGP) | [Link](https://github.com/NVlabs/instant-ngp)      |
-
-<br/>
-
 #### Generative Model
 
 | Name         | Paper                                                        | Paper Review                                                 | Code | Code Reference |
 | ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | -------------- |
 | **StyleGAN** | [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948) | [Link](https://glanceyes.tistory.com/entry/StyleGAN-Style-transfer와-mapping-network를-사용하여-disentanglement를-향상시킨-generative-Model) |      |                |
 | **HoloGAN**  | [HoloGAN: Unsupervised learning of 3D representations from natural images](https://arxiv.org/abs/1904.01326) | [Link](https://glanceyes.tistory.com/entry/HoloGAN-Natural-이미지로부터-3D-representation에-관해-unsupervised-learning-할-수-있는-모델) |      |                |
+
+<br/>
+
+#### Implicit Function
+
+| Name       | Paper                                                        | Paper Review | Code                                                         | Code Reference |
+| ---------- | ------------------------------------------------------------ | ------------ | ------------------------------------------------------------ | -------------- |
+| **PIFuHD** | [Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization](https://arxiv.org/abs/1905.05172) |              | [File](https://github.com/Glanceyes/ML-Paper-Review/blob/main/ComputerVision/ImplicitFunction/PIFuHD/PIFuHD.ipynb) |                |
+
+<br/>
+
+#### Radiance Field
+
+| Name           | Paper                                                        | Paper Review                                                 | Code                                                         | Code Reference                                     |
+| -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------------------------------- |
+| **NeRF**       | [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934) | [Link](https://glanceyes.tistory.com/entry/NeRF-2D-이미지를-3D-이미지로-Reconstruction하여-Novel-View-Synthesis이-가능한-Neural-Radiance-Fields) | [File](https://github.com/Glanceyes/ML-Paper-Review/tree/main/ComputerVision/RadianceField/NeRF) | [Link](https://github.com/yenchenlin/nerf-pytorch) |
+| **InstantNGP** | [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](https://arxiv.org/abs/2201.05989) |                                                              | [File](https://github.com/Glanceyes/ML-Paper-Review/tree/main/ComputerVision/RadianceField/InstantNGP) | [Link](https://github.com/NVlabs/instant-ngp)      |
 
 <br/>
 
@@ -92,10 +104,6 @@ It will be uploaded as soon as codes are organized.
 <br/>
 
 The code and the review in this repository is based on the original implementation by the authors of each paper. We thank them for releasing their code.
-
-<br/>
-
-> *I regret you to inform that this GitHub repository is primarily operated for my own AI study, so the some comments in code and paper review posts on my tech blog are **written in Korean**.*
 
 <br/>
 
