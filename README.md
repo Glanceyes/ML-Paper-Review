@@ -36,9 +36,9 @@ The code below is a simplified version and typically based on `.ipynb` files.
 
 #### Convolution
 
-| Name       | Paper                                                        | Paper Review | Code     | Code Reference |
-| ---------- | ------------------------------------------------------------ | ------------ | -------- | -------------- |
-| **ResNet** | [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385) |              | [File]() |                |
+| Name       | Paper                                                        | Paper Review | Code                                                         | Code Reference |
+| ---------- | ------------------------------------------------------------ | ------------ | ------------------------------------------------------------ | -------------- |
+| **ResNet** | [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385) |              | [File](https://github.com/Glanceyes/ML-Paper-Review/tree/main/Fundamental/ResNet) |                |
 
 <br/>
 
