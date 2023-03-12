@@ -30,11 +30,17 @@ The code below is a simplified version and typically based on `.ipynb` files.
 
 ------
 
-### Basic Concept
+### Fundamental
 
+<br/>
 
+#### Convolution
 
-It will be uploaded as soon as codes are organized.
+| Name       | Paper                                                        | Paper Review | Code     | Code Reference |
+| ---------- | ------------------------------------------------------------ | ------------ | -------- | -------------- |
+| **ResNet** | [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385) |              | [File]() |                |
+
+<br/>
 
 <br/>
 
