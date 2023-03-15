@@ -39,7 +39,7 @@ The code below is a simplified version and typically based on `.ipynb` files.
 | Name       | Paper                                                        | Paper Review | Code                                                         | Code Reference |
 | ---------- | ------------------------------------------------------------ | ------------ | ------------------------------------------------------------ | -------------- |
 | **ResNet** | [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385) |              | [File](https://github.com/Glanceyes/ML-Paper-Review/tree/main/Fundamental/ResNet) |                |
-| **CGAN**   | [Conditional Generative Adversarial Nets](https://arxiv.org/abs/1411.1784) |              |                                                              |                |
+| **CGAN**   | [Conditional Generative Adversarial Nets](https://arxiv.org/abs/1411.1784) |              | [File](https://github.com/Glanceyes/ML-Paper-Review/tree/main/Fundamental/CGAN) |                |
 
 <br/>
 
