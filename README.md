@@ -102,6 +102,14 @@ The code below is a simplified version and typically based on `.ipynb` files.
 
 <br/>
 
+#### Transformer
+
+| Name                   | Paper                                                        | Paper Review | Code                                                         | Code Reference |
+| ---------------------- | ------------------------------------------------------------ | ------------ | ------------------------------------------------------------ | -------------- |
+| **Vision Transformer** | [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929) |              | [File](https://github.com/Glanceyes/ML-Paper-Review/tree/main/ComputerVision/Transformer/VisionTransformer) |                |
+
+<br/>
+
 <br/>
 
 ------
