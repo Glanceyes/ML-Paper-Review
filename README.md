@@ -36,17 +36,18 @@ The code below is a simplified version and typically based on `.ipynb` files.
 
 #### Convolution
 
-| Name       | Paper                                                        | Paper Review | Code                                                         | Code Reference |
-| ---------- | ------------------------------------------------------------ | ------------ | ------------------------------------------------------------ | -------------- |
-| **ResNet** | [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385) |              | [File](https://github.com/Glanceyes/ML-Paper-Review/tree/main/Fundamental/Convolution/ResNet) |                |
+| Name        | Paper                                                        | Paper Review | Code                                                         | Code Reference |
+| ----------- | ------------------------------------------------------------ | ------------ | ------------------------------------------------------------ | -------------- |
+| **AlexNet** | [ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html) |              | [File](https://github.com/Glanceyes/ML-Paper-Review/tree/main/Fundamental/Convolution/AlexNet) |                |
+| **ResNet**  | [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385) |              | [File](https://github.com/Glanceyes/ML-Paper-Review/tree/main/Fundamental/Convolution/ResNet) |                |
 
 <br/>
 
-#### Adversarial Network
+#### Generative Adversarial Network
 
 | Name     | Paper                                                        | Paper Review | Code                                                         | Code Reference |
 | -------- | ------------------------------------------------------------ | ------------ | ------------------------------------------------------------ | -------------- |
-| **CGAN** | [Conditional Generative Adversarial Nets](https://arxiv.org/abs/1411.1784) |              | [File](https://github.com/Glanceyes/ML-Paper-Review/tree/main/Fundamental/AdversarialNetwork/CGAN) |                |
+| **CGAN** | [Conditional Generative Adversarial Nets](https://arxiv.org/abs/1411.1784) |              | [File](https://github.com/Glanceyes/ML-Paper-Review/tree/main/Fundamental/GenerativeAdversarialNetwork/CGAN) |                |
 
 <br/>
 
@@ -58,7 +59,16 @@ The code below is a simplified version and typically based on `.ipynb` files.
 
 <br/>
 
-#### Generative Model
+#### Encoding
+
+| Name                | Paper                                                        | Paper Review                                                 | Code                                                         | Code Reference                                |
+| ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------------------------------- |
+| **Fourier Feature** | [Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains](https://arxiv.org/abs/2006.10739) | [Link](https://glanceyes.tistory.com/entry/Neural-Tangent-Kernel과-Fourier-Features를-사용한-Positional-Encoding-3-Fourier-Features) |                                                              |                                               |
+| **InstantNGP**      | [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](https://arxiv.org/abs/2201.05989) |                                                              | [File](https://github.com/Glanceyes/ML-Paper-Review/tree/main/ComputerVision/Encoding/InstantNGP) | [Link](https://github.com/NVlabs/instant-ngp) |
+
+<br/>
+
+#### Generative Adversarial Network
 
 | Name         | Paper                                                        | Paper Review                                                 | Code | Code Reference |
 | ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | -------------- |
@@ -69,18 +79,18 @@ The code below is a simplified version and typically based on `.ipynb` files.
 
 #### Implicit Function
 
-| Name       | Paper                                                        | Paper Review | Code                                                         | Code Reference                                     |
-| ---------- | ------------------------------------------------------------ | ------------ | ------------------------------------------------------------ | -------------------------------------------------- |
-| **PIFuHD** | [Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization](https://arxiv.org/abs/1905.05172) |              | [File](https://github.com/Glanceyes/ML-Paper-Review/tree/main/ComputerVision/ImplicitFunction/PIFuHD) | [Link](https://github.com/facebookresearch/pifuhd) |
+| Name       | Paper                                                        | Paper Review                                                 | Code                                                         | Code Reference                                     |
+| ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------------------------------- |
+| **PIFu**   | [Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization](https://arxiv.org/abs/1905.05172) | [Link](https://glanceyes.tistory.com/entry/PIFu-Pixel-aligned-Implicit-Function을-사용하여-single-image로부터-clothed-human-3D-model을-예측하는-모델) |                                                              |                                                    |
+| **PIFuHD** | [PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization](https://arxiv.org/abs/2004.00452) |                                                              | [File](https://github.com/Glanceyes/ML-Paper-Review/tree/main/ComputerVision/ImplicitFunction/PIFuHD) | [Link](https://github.com/facebookresearch/pifuhd) |
 
 <br/>
 
 #### Radiance Field
 
-| Name           | Paper                                                        | Paper Review                                                 | Code                                                         | Code Reference                                     |
-| -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------------------------------- |
-| **NeRF**       | [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934) | [Link](https://glanceyes.tistory.com/entry/NeRF-2D-이미지를-3D-이미지로-Reconstruction하여-Novel-View-Synthesis이-가능한-Neural-Radiance-Fields) | [File](https://github.com/Glanceyes/ML-Paper-Review/tree/main/ComputerVision/RadianceField/NeRF) | [Link](https://github.com/yenchenlin/nerf-pytorch) |
-| **InstantNGP** | [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](https://arxiv.org/abs/2201.05989) |                                                              | [File](https://github.com/Glanceyes/ML-Paper-Review/tree/main/ComputerVision/RadianceField/InstantNGP) | [Link](https://github.com/NVlabs/instant-ngp)      |
+| Name     | Paper                                                        | Paper Review                                                 | Code                                                         | Code Reference                                     |
+| -------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------------------------------- |
+| **NeRF** | [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934) | [Link](https://glanceyes.tistory.com/entry/NeRF-2D-이미지를-3D-이미지로-Reconstruction하여-Novel-View-Synthesis이-가능한-Neural-Radiance-Fields) | [File](https://github.com/Glanceyes/ML-Paper-Review/tree/main/ComputerVision/RadianceField/NeRF) | [Link](https://github.com/yenchenlin/nerf-pytorch) |
 
 <br/>
 
@@ -104,10 +114,17 @@ The code below is a simplified version and typically based on `.ipynb` files.
 
 | Name          | Paper                                                        | Paper Review                                                 | Code                                                         | Code Reference                                 |
 | ------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------------- |
-| **EASE**      | [Embarrassingly Shallow Autoencoders for Sparse Data](https://arxiv.org/abs/1905.03375) | [Link](https://glanceyes.tistory.com/entry/Embarrassingly-Shallow-Autoencoders-for-Sparse-Data-모델이-희소-데이터에-강한-이유) | [File](https://github.com/Glanceyes/ML-Paper-Review/tree/main/RecommendationSystem/Autoencoder/EASE) | [Link](https://github.com/Darel13712/ease_rec) |
-| **RecVAE**    | [RecVAE: a New Variational Autoencoder for Top-N Recommendations with Implicit Feedback](https://arxiv.org/abs/1912.11160) |                                                              | [File](https://github.com/Glanceyes/ML-Paper-Review/tree/main/RecommendationSystem/Autoencoder/MultiDAE) |                                                |
-| **Multi-DAE** | [Variational Autoencoders for Collaborative Filtering](https://dl.acm.org/doi/10.1145/3178876.3186150) |                                                              | [File](https://github.com/Glanceyes/ML-Paper-Review/tree/main/RecommendationSystem/Autoencoder/MultiVAE) |                                                |
-| **Multi-VAE** | [Variational Autoencoders for Collaborative Filtering](https://dl.acm.org/doi/10.1145/3178876.3186150) |                                                              | [File](https://github.com/Glanceyes/ML-Paper-Review/tree/main/RecommendationSystem/Autoencoder/RecVAE) |                                                |
+| **EASE**      | [Embarrassingly Shallow Autoencoders for Sparse Data](https://arxiv.org/abs/1905.03375) | [Link](https://glanceyes.tistory.com/entry/Embarrassingly-Shallow-Autoencoders-for-Sparse-Data-모델이-희소-데이터에-강한-이유) | [File](https://github.com/Glanceyes/ML-Paper-Review/tree/main/RecommendationSystem/AutoEncoder/EASE) | [Link](https://github.com/Darel13712/ease_rec) |
+| **Multi-DAE** | [Variational Autoencoders for Collaborative Filtering](https://dl.acm.org/doi/10.1145/3178876.3186150) |                                                              | [File](https://github.com/Glanceyes/ML-Paper-Review/tree/main/RecommendationSystem/AutoEncoder/MultiVAE) |                                                |
+
+<br/>
+
+#### Variational AutoEncoder
+
+| Name          | Paper                                                        | Paper Review | Code                                                         | Code Reference                                 |
+| ------------- | ------------------------------------------------------------ | ------------ | ------------------------------------------------------------ | ---------------------------------------------- |
+| **Multi-VAE** | [Variational Autoencoders for Collaborative Filtering](https://dl.acm.org/doi/10.1145/3178876.3186150) |              | [File](https://github.com/Glanceyes/ML-Paper-Review/tree/main/RecommendationSystem/VariationalAutoEncoder/RecVAE) | [Link](https://github.com/Darel13712/ease_rec) |
+| **RecVAE**    | [RecVAE: a New Variational Autoencoder for Top-N Recommendations with Implicit Feedback](https://arxiv.org/abs/1912.11160) |              | [File](https://github.com/Glanceyes/ML-Paper-Review/tree/main/RecommendationSystem/VariationalAutoEncoder/MultiDAE) |                                                |
 
 <br/>
 
