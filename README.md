@@ -40,6 +40,7 @@ The code below is a simplified version and typically based on `.ipynb` files.
 | ----------- | ------------------------------------------------------------ | ------------ | ------------------------------------------------------------ | -------------- |
 | **AlexNet** | [ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html) |              | [File](https://github.com/Glanceyes/ML-Paper-Review/tree/main/Fundamental/Convolution/AlexNet) |                |
 | **ResNet**  | [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385) |              | [File](https://github.com/Glanceyes/ML-Paper-Review/tree/main/Fundamental/Convolution/ResNet) |                |
+| **VGG**     | [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556) |              | [File](https://github.com/Glanceyes/ML-Paper-Review/tree/main/Fundamental/Convolution/VGG) |                |
 
 <br/>
 
