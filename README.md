@@ -132,7 +132,7 @@ The code below is a simplified version and typically based on `.ipynb` files.
 | Name          | Paper                                                        | Paper Review                                                 | Code                                                         | Code Reference                                 |
 | ------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------------- |
 | **EASE**      | [Embarrassingly Shallow Autoencoders for Sparse Data](https://arxiv.org/abs/1905.03375) | [Link](https://glanceyes.tistory.com/entry/Embarrassingly-Shallow-Autoencoders-for-Sparse-Data-모델이-희소-데이터에-강한-이유) | [File](https://github.com/Glanceyes/ML-Paper-Review/tree/main/RecommendationSystem/Autoencoder/EASE) | [Link](https://github.com/Darel13712/ease_rec) |
-| **Multi-DAE** | [Variational Autoencoders for Collaborative Filtering](https://dl.acm.org/doi/10.1145/3178876.3186150) |                                                              | [File](https://github.com/Glanceyes/ML-Paper-Review/tree/main/RecommendationSystem/AutoEncoder/MultiDAE) |                                                |
+| **Multi-DAE** | [Variational Autoencoders for Collaborative Filtering](https://dl.acm.org/doi/10.1145/3178876.3186150) |                                                              | [File](https://github.com/Glanceyes/ML-Paper-Review/tree/main/RecommendationSystem/Autoencoder/MultiDAE) |                                                |
 
 <br/>
 
