@@ -71,10 +71,10 @@ The code below is a simplified version and typically based on `.ipynb` files.
 
 #### Generative Adversarial Network
 
-| Name         | Paper                                                        | Paper Review                                                 | Code | Code Reference                                           |
-| ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | -------------------------------------------------------- |
-| **StyleGAN** | [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948) | [Link](https://glanceyes.tistory.com/entry/StyleGAN-Style-transfer와-mapping-network를-사용하여-disentanglement를-향상시킨-generative-Model) |      | [Link](https://github.com/SiskonEmilia/StyleGAN-PyTorch) |
-| **HoloGAN**  | [HoloGAN: Unsupervised learning of 3D representations from natural images](https://arxiv.org/abs/1904.01326) | [Link](https://glanceyes.tistory.com/entry/HoloGAN-Natural-이미지로부터-3D-representation에-관해-unsupervised-learning-할-수-있는-모델) |      |                                                          |
+| Name         | Paper                                                        | Paper Review                                                 | Code                                                         | Code Reference                                           |
+| ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------------------------------------- |
+| **StyleGAN** | [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948) | [Link](https://glanceyes.tistory.com/entry/StyleGAN-Style-transfer와-mapping-network를-사용하여-disentanglement를-향상시킨-generative-Model) | [File](https://github.com/Glanceyes/ML-Paper-Review/tree/main/ComputerVision/GenerativeAdversarialNetwork/StyleGAN) | [Link](https://github.com/SiskonEmilia/StyleGAN-PyTorch) |
+| **HoloGAN**  | [HoloGAN: Unsupervised learning of 3D representations from natural images](https://arxiv.org/abs/1904.01326) | [Link](https://glanceyes.tistory.com/entry/HoloGAN-Natural-이미지로부터-3D-representation에-관해-unsupervised-learning-할-수-있는-모델) |                                                              |                                                          |
 
 <br/>
 
