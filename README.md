@@ -80,7 +80,7 @@ The code below is a simplified version and typically based on `.ipynb` files.
 
 #### Implicit Function
 
-| Name       | Paper [보라색.tag3.savedSearch](../../Library/Saved Searches/.DockTags/보라색.tag3.savedSearch) | Paper Review                                                 | Code                                                         | Code Reference                                     |
+| Name       | Paper                                                        | Paper Review                                                 | Code                                                         | Code Reference                                     |
 | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------------------------------- |
 | **PIFu**   | [Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization](https://arxiv.org/abs/1905.05172) | [Link](https://glanceyes.tistory.com/entry/PIFu-Pixel-aligned-Implicit-Function을-사용하여-single-image로부터-clothed-human-3D-model을-예측하는-모델) |                                                              |                                                    |
 | **PIFuHD** | [PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization](https://arxiv.org/abs/2004.00452) |                                                              | [File](https://github.com/Glanceyes/ML-Paper-Review/tree/main/ComputerVision/ImplicitFunction/PIFuHD) | [Link](https://github.com/facebookresearch/pifuhd) |
@@ -161,4 +161,4 @@ The code and the review in this repository is based on the original implementati
 
 <br/>
 
-This project is licensed under the MIT License - see the [LICENSE](https://en.wikipedia.org/wiki/MIT_License) file for details. Some kinds of codes for paper's implementation are protected under the licenses specified by the authors. In such cases, the source of the code is left together.
+This project is licensed under the MIT License - see the [LICENSE](https://en.wikipedia.org/wiki/MIT_License) file for details. Some kinds of codes for paper's implementation are protected under the licenses specified by the authors. In such cases, the source of the code is left together. (*Please refer to columns named "Code Reference".*)
