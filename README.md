@@ -113,10 +113,10 @@ The code below is a simplified version and typically based on `.ipynb` files.
 
 #### Diffusion
 
-| Name     | Paper                                                        | Paper Review                                                 | Code                                                         | Code Reference |
-| -------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------- |
-| **DDPM** | [Denoising Diffusion Probabilistic Model](https://arxiv.org/abs/2006.11239) | [Link](https://glanceyes.tistory.com/entry/Generative-Model과-Diffusion-Model-그리고-Denoising-Diffusion-Probabilistic-Model) | [File](https://github.com/Glanceyes/ML-Paper-Review/tree/main/ComputerVision/Diffusion/DDPM) |                |
-| **SDE**  | [Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/abs/2011.13456) |                                                              | [File](https://github.com/Glanceyes/ML-Paper-Review/tree/main/ComputerVision/Diffusion/ScoreBasedSDE) |                |
+| Name     | Paper                                                        | Paper Review                                                 | Code                                                         | Code Reference                                 |
+| -------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------------- |
+| **DDPM** | [Denoising Diffusion Probabilistic Model](https://arxiv.org/abs/2006.11239) | [Link](https://glanceyes.tistory.com/entry/Generative-Model과-Diffusion-Model-그리고-Denoising-Diffusion-Probabilistic-Model) | [File](https://github.com/Glanceyes/ML-Paper-Review/tree/main/ComputerVision/Diffusion/DDPM) |                                                |
+| **SDE**  | [Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/abs/2011.13456) |                                                              | [File](https://github.com/Glanceyes/ML-Paper-Review/tree/main/ComputerVision/Diffusion/ScoreBasedSDE) | [Link](https://github.com/yang-song/score_sde) |
 
 <br/>
 
